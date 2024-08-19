@@ -8,4 +8,4 @@
 
  ## OAuth2.0 Security Flow 
 
- ![alt text](https://github.com/ayumahapat0/oauth2.0_exploration/blob/main/OAuth2.0_ClientCredentialsSecurityFlow.png?raw=true)
+ ![alt text](https://github.com/ayumahapat0/oauth2.0_exploration/blob/main/OAuth2.0_ClientCredentialsSecurity%20Flow.png?raw=true)
