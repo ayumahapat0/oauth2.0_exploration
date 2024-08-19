@@ -7,3 +7,5 @@
  ### However, it was very rewarding learning about the Oauth2.0 Security Flow and understanding how it works
 
  ## OAuth2.0 Security Flow 
+
+ ![alt text](https://github.com/ayumahapat0/oauth2.0_exploration//OAuth2.0_ClientCredentialsSecurityFlow.png?raw=true)
